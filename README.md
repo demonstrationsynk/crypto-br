@@ -5,11 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-br&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Crypto-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Crypto-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Crypto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Crypto-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Crypto-Rasp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="AWS" height="40" width="auto" src="img/aws-2.svg">&nbsp;
+  <img align="center" alt="Crypto-Linux" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">&nbsp;
+  <img align="center" alt="Pythoh" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
+  <img align="center" alt="AWS Lambda" height="40" width="auto" src="img/aws-lambda-1.svg">&nbsp;
+  <img align="center" alt="Crypto-Docker" height="40" width="auto"" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">&nbsp;
+  <img align="center" alt="Crypto-Rasp" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">&nbsp;
+  <img align="center" alt="Debian" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">&nbsp;
 </div>
   
   ##
