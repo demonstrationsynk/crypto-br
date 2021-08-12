@@ -9,9 +9,11 @@
   <img align="center" alt="Crypto-Linux" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">&nbsp;
   <img align="center" alt="Pythoh" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
   <img align="center" alt="AWS Lambda" height="40" width="auto" src="img/aws-lambda-1.svg">&nbsp;
-  <img align="center" alt="Crypto-Docker" height="40" width="auto"" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">&nbsp;
+  <img align="center" alt="Crypto-Docker" height="40" width="auto"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">&nbsp;
   <img align="center" alt="Crypto-Rasp" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">&nbsp;
   <img align="center" alt="Debian" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">&nbsp;
+  <img align="center" alt="KB8" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">&nbsp;
+  <img align="center" alt="KB8" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">&nbsp;
 </div>
   
   ##
