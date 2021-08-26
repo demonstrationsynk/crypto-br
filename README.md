@@ -1,4 +1,4 @@
-## ![Snake animation](https://img.icons8.com/cotton/64/000000/hacking.png) 
+## ![Snake animation](https://img.icons8.com/ios-filled/50/000000/fsociety-mask.png) 
  <div>
   <a href="https://github.com/crypto-br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crypto-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
