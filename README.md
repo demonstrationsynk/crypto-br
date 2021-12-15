@@ -1,9 +1,11 @@
 ## ![Snake animation](https://img.icons8.com/ios-filled/50/000000/fsociety-mask.png) 
+<h3>Welcome...</h3> 
  <div>
   <a href="https://github.com/crypto-br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crypto-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-br&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ <h3>Technologies:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="40" width="auto" src="img/aws-2.svg">&nbsp;
   <img align="center" alt="Crypto-Linux" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">&nbsp;
@@ -14,6 +16,7 @@
   <img align="center" alt="Debian" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">&nbsp;
   <img align="center" alt="KB8" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">&nbsp;
   <img align="center" alt="KB8" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">&nbsp;
+  <img align="center" alt="Terraform" height="40" width="auto" src="https://w7.pngwing.com/pngs/274/556/png-transparent-hashicorp-terraform-logo-business-glassdoor-business-angle-service-rectangle.png">&nbsp;
 </div>
   
   ##
