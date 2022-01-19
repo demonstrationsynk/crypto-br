@@ -1,9 +1,9 @@
 ## ![Snake animation](https://img.icons8.com/ios-filled/50/000000/fsociety-mask.png) 
 <h3>Welcome...</h3> 
  <div>
-  <!-- <a href="https://github.com/crypto-br">
+  <a href="https://github.com/crypto-br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crypto-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-br&layout=compact&langs_count=7&theme=dark"/> !-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-br&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <h3>Technologies:</h3> 
 <div style="display: inline_block"><br>
