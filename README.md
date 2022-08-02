@@ -1,10 +1,10 @@
-<h3>Welcome...</h3> 
+<h3>...</h3> 
  <div>
   <a href="https://github.com/crypto-br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crypto-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-br&layout=compact&langs_count=7&theme=dark"/>
 </div>
- <h3>Technologies:</h3> 
+ <h3>Tecnologias:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="40" width="auto" src="img/aws-2.svg">&nbsp;
   <img align="center" alt="Crypto-Linux" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">&nbsp;
@@ -24,9 +24,11 @@
   <a href="https://instagram.com/gynsec" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/aUpJEG7gmU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luizmachadoaws" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
  
 
-<h3>Certified:</h3> 
+<h3>Certificações:</h3> 
 <img align="center" alt="AWS Cloud Praticioner" height="50" width="50" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">&nbsp;
 <img align="center" alt="Well-Architected Proficient" height="50" width="50" src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png">&nbsp;
 <img align="center" alt="AWS Cloud Praticioner" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlQu44_J2LK2-I59C5bb-oHMd1Iob0k_wIMMAsiPzpfodRAy_AHyd-mTDghNBQyQERPc&usqp=CAU">&nbsp;
